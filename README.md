@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-| <a href="https://github.com/danilosoarespinheiro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danilosoarespinheiro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/danilosoarespinheiro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosoarespinheiro&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/danilosoarespinheiro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danilosoarespinheiro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/danilosoarespinheiro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosoarespinheiro&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p>
 
 
